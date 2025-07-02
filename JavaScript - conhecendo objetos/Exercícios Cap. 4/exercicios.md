@@ -140,7 +140,7 @@ const pessoaOriginal = {
     nome: "Alice",
     idade: 30
 }
-Copiar código
+
 Crie uma função que receba um objeto JavaScript e retorne um novo objeto. Utilize esta função para fazer uma cópia do objeto pessoaOriginal.
 
 Modifique a cópia do objeto obtido através da função, adicionando ou alterando pelo menos uma propriedade.
